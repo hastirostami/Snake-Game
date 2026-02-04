@@ -1,7 +1,5 @@
 # Snake-Game
 
-# Snake Game (Fixed Length)
-
 ## Description
 A simple Snake game where the snake moves around, eats food and does grow in size.  
 Built with **Python** and **Pygame**.
